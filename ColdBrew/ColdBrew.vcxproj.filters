@@ -24,9 +24,15 @@
     <ClInclude Include="src\ColdBrew.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\ColdBrew\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\ColdBrew\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ColdBrew\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,0 +1,3 @@
+[submodule "ColdBrew/vendor/spdlog"]
+	path = ColdBrew/vendor/spdlog
+	url = https://github.com/gabime/spdlog
